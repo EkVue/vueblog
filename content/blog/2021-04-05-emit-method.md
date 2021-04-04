@@ -1,8 +1,8 @@
 ---
 title: vue emit method
-date: Sunday May 6th, 2018
-thumbnail: /images/uploads/seattle.jpg
-category: delphi
+date: 05-04-2021
+thumbnail: /images/uploads/vue.png
+category: Delphi
 ---
 
 v-on directive captures the child components events that is emitted by $emit
