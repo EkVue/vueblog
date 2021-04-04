@@ -1,7 +1,6 @@
 ---
 title: vue emit method
 date: 05-04-2021
-thumbnail: /images/uploads/vue.png
 category: Delphi
 ---
 
@@ -9,7 +8,7 @@ v-on directive captures the child components events that is emitted by $emit
 
 Child component triggers clicked event:
 
-```
+```js
 export default {
   methods: {
     onClickButton (event) {
@@ -20,10 +19,14 @@ export default {
 ```
 Parent component receive clicked event:
 
-```
+```vue
 <div>
   <child @clicked="onClickChild"></child>
 </div>
+
+```
+
+```js
 export default {
   methods: {
     onClickChild (value) {
@@ -32,3 +35,4 @@ export default {
   }
 }
 ```
+
