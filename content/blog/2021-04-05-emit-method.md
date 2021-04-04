@@ -1,5 +1,5 @@
 ---
-title: Seattle
+title: vue emit method
 date: Sunday May 6th, 2018
 thumbnail: /images/uploads/seattle.jpg
 category: delphi
