@@ -6,6 +6,7 @@ category: Php
 
 
 
+```php+HTML
 <?php
 
 $_SESSION[“token”] = sha1(rand());
@@ -31,3 +32,5 @@ echo “token yanlış!”;
 }
 
 }
+```
+
