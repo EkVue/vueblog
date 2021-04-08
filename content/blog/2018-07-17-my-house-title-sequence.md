@@ -1,7 +1,7 @@
 ---
   title: My House Title Sequence
   date: Tuesday July 17th, 2018
-  category: Design
+  category: Old
 ---
 
 <iframe src="https://player.vimeo.com/video/264297998" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

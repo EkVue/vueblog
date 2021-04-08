@@ -2,7 +2,7 @@
   title: Nicolas Jaar - Selected Network Sets
   date: Tuesday July 17th, 2018
   thumbnail: /images/uploads/define.png
-  category: Music
+  category: Old
 ---
 
 ## A playlist of live recordings from Nicolas Jaar.

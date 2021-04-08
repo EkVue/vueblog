@@ -2,7 +2,7 @@
 title: Mentioned by
 date: Thursday July 18th, 2019
 thumbnail: /images/uploads/twitter-glitched-7-18-2019-6-26-49-pm.png
-category: Internet
+category: Old
 ---
 [Post a tweet](http://twitter.com/home?status=Bael%20Theme%20is%20a%20great%20theme%20for%20%40netlifycms%20https%3A%2F%2Fbael-theme.jake101.com%20via%20@jasperketone) about Bael if you use it and like it.
 
