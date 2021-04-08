@@ -6,8 +6,8 @@ category: Delphi
 
 v-on directive captures the child components events that is emitted by $emit
 
-Child component triggers clicked event:
 
+Child component triggers clicked event:
 ```js
 export default {
   methods: {
@@ -17,9 +17,9 @@ export default {
   }
 }
 ```
-Parent component receive clicked event:
 
-```vue
+Parent component receive clicked event:
+```html
 <div>
   <child @clicked="onClickChild"></child>
 </div>
